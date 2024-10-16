@@ -52,4 +52,7 @@ class MainActivity : AppCompatActivity() {
             adapter = movieAdapter
         }
     }
+
+
+
 }
